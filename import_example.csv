@@ -1,0 +1,94 @@
+import_example
+Model;Memory;Condition;VAT Mode;Grade;Wholesale;Retail;Currency
+iPhone 12;64GB;used;marginal;A;157;167;EUR
+iPhone 12 mini;64GB;used;marginal;A;140;149;EUR
+iPhone 12 Pro;128GB;used;marginal;A;220;234;EUR
+iPhone 13;128GB;used;marginal;A;245;261;EUR
+iPhone 13;256GB;used;marginal;A;255;271;EUR
+iPhone 13;512GB;used;marginal;A;245;261;EUR
+iPhone 13 Pro;128GB;used;marginal;A;284;302;EUR
+iPhone 13 Pro;256GB;used;marginal;A;314;334;EUR
+iPhone 13 Pro Max;128GB;used;marginal;A;344;366;EUR
+iPhone 13 Pro Max;256GB;used;marginal;A;378;402;EUR
+iPhone 14;128GB;used;marginal;A;284;302;EUR
+iPhone 14 Pro;256GB;used;marginal;A;437;465;EUR
+iPhone 15;128GB;used;marginal;A;383;407;EUR
+iPhone 15 Pro;128GB;used;marginal;A;486;517;EUR
+iPhone 15 Pro;256GB;used;marginal;A;516;549;EUR
+iPhone 15 Pro;512GB;used;marginal;A;529;563;EUR
+iPhone 15 Pro Max;256GB;used;marginal;A;606;645;EUR
+iPhone 15 Pro Max;512GB;used;marginal;A;622;662;EUR
+iPhone 16 Pro;128GB;used;marginal;A;649;690;EUR
+iPhone 16 Pro Max;256GB;used;marginal;A;766;815;EUR
+iPhone XR;64GB;used;marginal;C;79;84;EUR
+iPhone XR;128GB;used;marginal;C;89;95;EUR
+iPhone XR;256GB;used;marginal;C;99;105;EUR
+iPhone XS;64GB;used;marginal;C;79;84;EUR
+iPhone XS;256GB;used;marginal;C;89;95;EUR
+iPhone XS;512GB;used;marginal;C;99;105;EUR
+iPhone 11;64GB;used;marginal;C;109;116;EUR
+iPhone 11;128GB;used;marginal;C;129;137;EUR
+iPhone 11;256GB;used;marginal;C;149;158;EUR
+iPhone 11 Pro;64GB;used;marginal;C;149;158;EUR
+iPhone 11 Pro;256GB;used;marginal;C;168;179;EUR
+iPhone 11 Pro;512GB;used;marginal;C;188;200;EUR
+iPhone 11 Pro Max;64GB;used;marginal;C;178;189;EUR
+iPhone 11 Pro Max;256GB;used;marginal;C;197;210;EUR
+iPhone 11 Pro Max;512GB;used;marginal;C;217;231;EUR
+iPhone 12;64GB;used;marginal;C;70;74;EUR
+iPhone 12;128GB;used;marginal;C;79;84;EUR
+iPhone 12;256GB;used;marginal;C;89;95;EUR
+iPhone 12 Pro;128GB;used;marginal;C;138;147;EUR
+iPhone 12 Pro;256GB;used;marginal;C;158;168;EUR
+iPhone 12 Pro;512GB;used;marginal;C;178;189;EUR
+iPhone 12 Pro Max;128GB;used;marginal;C;197;210;EUR
+iPhone 12 Pro Max;256GB;used;marginal;C;217;231;EUR
+iPhone 12 Pro Max;512GB;used;marginal;C;237;252;EUR
+iPhone 13;128GB;used;marginal;C;247;263;EUR
+iPhone 13;256GB;used;marginal;C;267;284;EUR
+iPhone 13;512GB;used;marginal;C;287;305;EUR
+iPhone 13 Pro;128GB;used;marginal;C;217;231;EUR
+iPhone 13 Pro;256GB;used;marginal;C;237;252;EUR
+iPhone 13 Pro;512GB;used;marginal;C;257;273;EUR
+iPhone 13 Pro;1TB;used;marginal;C;276;294;EUR
+iPhone 13 Pro Max;128GB;used;marginal;C;296;315;EUR
+iPhone 13 Pro Max;256GB;used;marginal;C;316;336;EUR
+iPhone 13 Pro Max;512GB;used;marginal;C;346;368;EUR
+iPhone 13 Pro Max;1TB;used;marginal;C;336;357;EUR
+iPhone 14;128GB;used;marginal;C;366;389;EUR
+iPhone 14;256GB;used;marginal;C;395;420;EUR
+iPhone 14;512GB;used;marginal;C;425;452;EUR
+iPhone 14 Plus;128GB;used;marginal;C;118;126;EUR
+iPhone 14 Plus;256GB;used;marginal;C;138;147;EUR
+iPhone 14 Plus;512GB;used;marginal;C;158;168;EUR
+iPhone 14 Pro;128GB;used;marginal;C;287;305;EUR
+iPhone 14 Pro;256GB;used;marginal;C;306;326;EUR
+iPhone 14 Pro;512GB;used;marginal;C;326;347;EUR
+iPhone 14 Pro;1TB;used;marginal;C;355;378;EUR
+iPhone 14 Pro Max;128GB;used;marginal;C;385;410;EUR
+iPhone 14 Pro Max;256GB;used;marginal;C;415;441;EUR
+iPhone 14 Pro Max;512GB;used;marginal;C;445;473;EUR
+iPhone 14 Pro Max;1TB;used;marginal;C;405;431;EUR
+iPhone 15;128GB;used;marginal;C;434;462;EUR
+iPhone 15;256GB;used;marginal;C;464;494;EUR
+iPhone 15;512GB;used;marginal;C;513;546;EUR
+iPhone 15 Plus;128GB;used;marginal;C;385;410;EUR
+iPhone 15 Plus;256GB;used;marginal;C;415;441;EUR
+iPhone 15 Plus;512GB;used;marginal;C;445;473;EUR
+iPhone 15 Pro;128GB;used;marginal;C;464;494;EUR
+iPhone 15 Pro;256GB;used;marginal;C;494;525;EUR
+iPhone 15 Pro;512GB;used;marginal;C;524;557;EUR
+iPhone 15 Pro;1TB;used;marginal;C;553;588;EUR
+iPhone 15 Pro Max;256GB;used;marginal;C;543;578;EUR
+iPhone 15 Pro Max;512GB;used;marginal;C;572;609;EUR
+iPhone 15 Pro Max;1TB;used;marginal;C;603;641;EUR
+iPhone 16;128GB;used;marginal;C;504;536;EUR
+iPhone 16;256GB;used;marginal;C;533;567;EUR
+iPhone 16;512GB;used;marginal;C;563;599;EUR
+iPhone 16 Pro;128GB;used;marginal;C;622;662;EUR
+iPhone 16 Pro;256GB;used;marginal;C;651;693;EUR
+iPhone 16 Pro;512GB;used;marginal;C;682;725;EUR
+iPhone 16 Pro;1TB;used;marginal;C;711;756;EUR
+iPhone 16 Pro Max;256GB;used;marginal;C;721;767;EUR
+iPhone 16 Pro Max;512GB;used;marginal;C;750;798;EUR
+iPhone 16 Pro Max;1TB;used;marginal;C;780;830;EUR

@@ -1,0 +1,1036 @@
+[03-Feb-2026 22:55:45 Europe/Prague] PHP Warning:  Undefined array key "full_name" in /Users/koctr/Documents/J2i_project/includes/auth.php on line 103
+[03-Feb-2026 22:55:56 Europe/Prague] PHP Warning:  Undefined array key "full_name" in /Users/koctr/Documents/J2i_project/includes/auth.php on line 103
+[03-Feb-2026 23:47:22 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:28 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:29 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:31 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:33 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:34 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:35 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:37 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:38 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[03-Feb-2026 23:47:40 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:117) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:14:25 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:31:51 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:05 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:32:07 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:58:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:04 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:21 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 00:59:24 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 00:59:59 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:01:41 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:21 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:35 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:03:53 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:25:09 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:33:13 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:35:06 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "logo_url" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 89
+[04-Feb-2026 01:36:31 Europe/Prague] PHP Warning:  Undefined array key "website" in /Users/koctr/Documents/J2i_project/pages/catalog/brands.php on line 103
+[04-Feb-2026 02:43:12 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:13 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:15 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:16 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:18 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:28 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:45 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:43:47 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:44:53 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:44:55 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:51:20 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`j2i_wms`.`sales`, CONSTRAINT `sales_ibfk_2` FOREIGN KEY (`created_by`) REFERENCES `users` (`id`) ON DELETE SET NULL) in Command line code:22
+Stack trace:
+#0 Command line code(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in Command line code on line 22
+[04-Feb-2026 02:54:34 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:35 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:36 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:37 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:38 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:39 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:40 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:41 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:42 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:43 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:46 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:51 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:55 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 02:54:59 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 11:31:43 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:122) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 11:31:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 11:31:45 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:122) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 11:31:46 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 11:31:47 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:122) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 16:25:30 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 169
+[04-Feb-2026 16:25:30 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 16:25:58 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 169
+[04-Feb-2026 16:25:58 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 16:28:19 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 169
+[04-Feb-2026 16:28:19 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 16:37:50 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 169
+[04-Feb-2026 16:37:50 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 16:55:04 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 16:56:34 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 16:57:39 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 17:03:39 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 17:04:39 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 17:06:30 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 17:20:17 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 17:20:56 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 17:21:01 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 17:21:02 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 17:21:04 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 17:21:05 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 17:21:06 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 17:21:23 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 17:21:29 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 18:01:03 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 19:05:54 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[04-Feb-2026 21:34:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:36:14 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:41:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:53:16 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:53:52 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:54:07 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:57:12 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 21:59:19 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:01:34 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:03:31 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:06:48 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:11:26 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:20:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:21:51 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:22:01 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:25:52 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:42:52 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:46:18 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:46:46 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:47:12 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 22:47:45 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 23:04:26 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 23:04:44 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 23:05:01 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 23:05:48 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 23:06:51 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[04-Feb-2026 23:28:14 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[05-Feb-2026 00:15:38 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('new', 'used') DEFAULT 'used',
+    total_amount DECIMAL(15,2),
+    currency CHA' at line 7 in Command line code:21
+Stack trace:
+#0 Command line code(21): PDO->exec('CREATE TABLE IF...')
+#1 {main}
+  thrown in Command line code on line 21
+[05-Feb-2026 00:15:49 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(
+    uid=501(koctr) gid=20(staff) groups=20(staff),12(everyone),61(localaccount' at line 1 in Command line code:5
+Stack trace:
+#0 Command line code(5): PDO->exec('CREATE TABLE IF...')
+#1 {main}
+  thrown in Command line code on line 5
+[05-Feb-2026 13:16:07 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[06-Feb-2026 17:03:48 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 171
+[10-Feb-2026 12:20:31 Europe/Prague] PHP Warning:  Undefined array key "user_id" in /Users/koctr/Documents/J2i_project/test_save.php on line 53
+[10-Feb-2026 12:20:31 Europe/Prague] PHP Warning:  Undefined array key "user_id" in /Users/koctr/Documents/J2i_project/test_save.php on line 86
+[10-Feb-2026 12:20:31 Europe/Prague] PHP Warning:  Undefined array key "user_id" in /Users/koctr/Documents/J2i_project/test_save.php on line 53
+[10-Feb-2026 12:20:31 Europe/Prague] PHP Warning:  Undefined array key "user_id" in /Users/koctr/Documents/J2i_project/test_save.php on line 86
+[12-Feb-2026 12:25:22 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:25:24 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:25:26 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:25:29 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:25:33 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:25:42 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:25:52 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[12-Feb-2026 12:26:01 Europe/Prague] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/koctr/Documents/J2i_project/includes/header.php:123) in /Users/koctr/Documents/J2i_project/includes/functions.php on line 240
+[13-Feb-2026 17:23:48 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(196): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[13-Feb-2026 17:53:40 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(196): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[13-Feb-2026 17:58:51 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(196): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[13-Feb-2026 18:12:29 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(196): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[14-Feb-2026 16:51:43 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_cost" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 124
+[14-Feb-2026 16:51:43 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_currency" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 125
+[14-Feb-2026 16:51:43 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_cost" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 124
+[14-Feb-2026 16:51:43 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_currency" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 125
+[14-Feb-2026 16:55:01 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_cost" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 124
+[14-Feb-2026 16:55:01 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_currency" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 125
+[14-Feb-2026 16:55:01 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_cost" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 124
+[14-Feb-2026 16:55:01 Europe/Prague] PHP Warning:  Undefined array key "item_delivery_currency" in /Users/koctr/Documents/J2i_project/pages/sales/view-sale.php on line 125
+[14-Feb-2026 17:30:36 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:796
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(796): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 796
+[14-Feb-2026 17:30:38 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:796
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(796): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 796
+[14-Feb-2026 17:30:39 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:796
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(796): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 796
+[14-Feb-2026 17:31:17 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:796
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(796): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 796
+[14-Feb-2026 17:31:33 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:796
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(796): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 796
+[14-Feb-2026 17:34:21 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:796
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(796): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 796
+[14-Feb-2026 17:50:29 Europe/Prague] PHP Warning:  Undefined variable $saleId in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 584
+[14-Feb-2026 18:16:46 Europe/Prague] PHP Warning:  Undefined variable $saleId in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 584
+[14-Feb-2026 18:28:36 Europe/Prague] PHP Warning:  Undefined variable $saleId in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 584
+[15-Feb-2026 15:01:53 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 359 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(359): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[15-Feb-2026 16:57:19 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(315): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 18:25:18 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 20:25:20 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 20:25:20 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 20:30:28 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 20:30:28 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 20:35:20 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[15-Feb-2026 20:35:20 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(354): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[16-Feb-2026 15:48:20 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:23 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:25 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:26 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:28 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:30 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:33 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:46 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:54 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:55 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:48:57 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:49:00 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:49:02 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 15:49:04 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:23:59 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:24:49 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:24:54 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:25:07 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:25:36 Europe/Prague] PHP Warning:  Undefined variable $vatMode in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 339
+[16-Feb-2026 16:29:19 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:29:26 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:29:58 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:30:49 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:31:52 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:31:53 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.name' in 'field list' in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php:311
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(311): PDO->prepare('\n            SE...')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 311
+[16-Feb-2026 16:53:59 Europe/Prague] PHP Warning:  Undefined variable $vatMode in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 355
+[17-Feb-2026 18:30:24 Europe/Prague] PHP Warning:  Undefined variable $vatMode in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 355
+[17-Feb-2026 18:31:00 Europe/Prague] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'rate_date' at row 1 in /Users/koctr/Documents/J2i_project/includes/functions.php:106
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/includes/functions.php(106): PDOStatement->execute(Array)
+#1 /Users/koctr/Documents/J2i_project/api/ajax-handlers.php(443): getCNBRate('EUR', '')
+#2 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 106
+[17-Feb-2026 18:31:11 Europe/Prague] PHP Warning:  Undefined variable $vatMode in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 355
+[18-Feb-2026 17:23:23 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:23:30 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:24:18 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:24:21 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:25:19 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:26:30 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:26:33 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[18-Feb-2026 17:29:00 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 16:54:20 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 16:54:27 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 16:55:11 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 16:58:55 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 16:59:04 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 16:59:14 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 17:06:37 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 17:47:25 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 17:58:16 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 17:58:43 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 18:09:09 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 18:14:04 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 18:14:15 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 18:39:57 Europe/Prague] Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'j2i_wms'
+[19-Feb-2026 20:21:44 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 396 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(396): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[19-Feb-2026 20:22:09 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 396 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(396): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[19-Feb-2026 20:43:57 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:17 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:22 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:27 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:42:45 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:44:06 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $netProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 327
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $monthlyNetProfit in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 335
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyMonth in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 361
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $historyYear in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 368
+[19-Feb-2026 22:45:24 Europe/Prague] PHP Warning:  Undefined variable $showHistory in /Users/koctr/Documents/J2i_project/pages/dashboard.php on line 374
+[19-Feb-2026 23:21:37 Europe/Prague] PHP Warning:  Undefined variable $vatMode in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 417
+[19-Feb-2026 23:45:33 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[19-Feb-2026 23:45:45 Europe/Prague] PHP Warning:  Undefined variable $vatMode in /Users/koctr/Documents/J2i_project/api/ajax-handlers.php on line 417
+[19-Feb-2026 23:48:59 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[20-Feb-2026 00:01:08 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[20-Feb-2026 10:33:10 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[20-Feb-2026 10:33:19 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
+[20-Feb-2026 10:33:35 Europe/Prague] PHP Fatal error:  Uncaught TypeError: formatCurrency(): Argument #1 ($amount) must be of type float, null given, called in /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php on line 412 and defined in /Users/koctr/Documents/J2i_project/includes/functions.php:57
+Stack trace:
+#0 /Users/koctr/Documents/J2i_project/pages/suppliers/edit-supplier.php(412): formatCurrency(NULL, 'EUR')
+#1 {main}
+  thrown in /Users/koctr/Documents/J2i_project/includes/functions.php on line 57
